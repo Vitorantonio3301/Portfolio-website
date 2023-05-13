@@ -1,5 +1,5 @@
 # Personal-Portfolio
-Personal portfolio website. Made for for training purposes.
+
 
 ## Index
 
@@ -9,7 +9,7 @@ Personal portfolio website. Made for for training purposes.
 4.Acquired knowledge;<br>
 5.Acess the project;<br>
 6.Used tecnologies;<br>
-7.Projectt contributors;<br>
+7.Project contributors;<br>
 8.Conclusion;<br>
 
 ## 1. Project description;
@@ -41,7 +41,7 @@ Since i also writen all the code from the things that i learned from video, cour
 course, i forgot some things and i was stuck in some parts and needed help to make it, but overall i think could handle the scene well.
 I started to understand the importance of Git e GitHub in the coding world so i tried to learn that too. And i think it worked since here i'am...
 
-Overall, the things that i learned whas:
+**Overall, the things that i learned whas:
 - Language mechanic usage;
 - Language conceps usage;
 - keyboard shortcuts;
@@ -58,9 +58,32 @@ Overall, the things that i learned whas:
 </div>
 
 ## 5. Acess the project
-<a
-   
+### 📁 Dowload the project:
+
+1. Go to the project page on GitHub.
+2. Click on the green "Code" button located in the upper right corner of the page.
+3. Choose the option to download the ZIP file or copy the HTTPS or SSH link to use with Git.
+4. To download the ZIP file, click "Download ZIP" and the ZIP file will be downloaded to your computer. 
+5. Extract the ZIP file to a folder of your choice.
+
+### GIT
+
+1. If you use Git on your command line, copy the HTTPS or SSH link provided by GitHub. 
+2. Then, open your terminal or command prompt and navigate to the folder where you want to download the project. 
+3. Type the command "git clone" followed by the link copied from GitHub. For example:
+
+git clone https://github.com/Vitorantonio3301/Portfolio-website.git
+
+4. After the download is complete, you will have a copy of the project on your local machine and can work on it.
+
 ## 6. Used tecnologies;
  <div>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" height="30px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" height="30px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30px" height="30px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30px" height="30px">
 </div>
+I really tried to use the basic here, but do something really nice wich i think i was able to. Overall, i used only HTML5, CSS and the Bootstrap framework wich i use Node.JS to dowload it.
+
+## 7.Project contributors;
+
