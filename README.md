@@ -38,7 +38,7 @@ Some of the funcionalities that you can expect to find in this website are:
 
 Those are the funcionalities that i notice the most in the websites that i use this days. Seeing that, i tried to also implement those on my website.
 
-## 4. Acquired knowledge;</h2>
+## 4. Acquired knowledge;
 For the most part i was focusing on the concept of flex display and the stuff surrounding it. So i learned a lot about it. 
 Since i also writen all the code from the beginning using things that i learned from video, courses, books etc, i was able to write te code by myself,
 course, i forgot some things and i was stuck in some parts and needed help to make it, but overall i think could handle the scene well.
